@@ -1,0 +1,26 @@
+# Node modules (installed dependencies)
+node_modules/
+
+# Environment variables (keep secrets safe!)
+.env
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Coverage and build output
+coverage/
+dist/
+build/
+
+# Misc
+*.local
